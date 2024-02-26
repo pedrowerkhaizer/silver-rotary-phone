@@ -1,10 +1,11 @@
-[
-{
-"desafio": "Desafie outro jogador a descrever sua fantasia mais erótica e atrevida.",
-"defesa": "Roube a carta do adversário. Ele não poderá fazer nada"
-},
-{
-"desafio": "Desafie outro jogador a enviar uma mensagem de texto sugestiva para seu ex com quem ainda têm uma atração.",
-"defesa": "O desafiante deverá cumprir o próprio desafio ou bebera 2 doses."
-}
-]
+{"test":[
+    {
+    "desafio": "Desafie outro jogador a descrever sua fantasia mais erótica e atrevida.",
+    "defesa": "Roube a carta do adversário. Ele não poderá fazer nada"
+    },
+    {
+    "desafio": "Desafie outro jogador a enviar uma mensagem de texto sugestiva para seu ex com quem ainda têm uma atração.",
+    "defesa": "O desafiante deverá cumprir o próprio desafio ou bebera 2 doses."
+    }
+    ]}
+    
